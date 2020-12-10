@@ -14,7 +14,7 @@ module.exports = (env) =>
       entry: "./index.js",
       output: {
         path: path.resolve(__dirname, "dist"),
-        filename: "[name].by-lewyk.js",
+        filename: "[name].by-VeremchukStanislav.js",
       },
       module: {
         rules: [

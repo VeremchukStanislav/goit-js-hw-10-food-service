@@ -1,5 +1,5 @@
 {
-  "name": "goit-js-hw-10-food-service-by-lewyk",
+  "name": "goit-js-hw-10-food-service",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lewyk/goit-js-hw-10-food-service"
+    "url": "git+https://github.com/VeremchukStanislav/goit-js-hw-10-food-service"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lewyk/goit-js-hw-10-food-service/issues"
+    "url": "https://github.com/VeremchukStanislav/goit-js-hw-10-food-service/issues"
   },
-  "homepage": "https://github.com/lewyk/goit-js-hw-10-food-service#readme",
+  "homepage": "https://github.com/VeremchukStanislav/goit-js-hw-10-food-service#readme",
   "devDependencies": {
     "@babel/core": "^7.10.2",
     "@babel/preset-env": "^7.10.2",
